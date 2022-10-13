@@ -3,7 +3,7 @@
 - 👨‍🎓 Formado como Técnico em Eletrônica - IFSUL
 - 👨‍💻 Cursando Ciência da Computação 3/8 - UFPEL
 - 📝 Estudando HTML5, CSS3 E JS
-- 📫 Contate-me no email: bruno11silveira@hotmail.com
+- 📫 Contate-me no email: contato.brunosilveira@gmail.com
 
 <div align="center">
   <a href="https://github.com/brcsilveira">
