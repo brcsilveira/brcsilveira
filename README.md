@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Formado como Técnico em Eletrônica - IFSUL
 - 👨‍💻 Cursando Ciência da Computação 4/8 - UFPEL
-- 📝 Estudando HTML5, CSS3 E JS
+- 📝 Estudando Desenvolvimento Web através de cursos extracurriculares
 - 📫 Contate-me no email: contato.brunosilveira@gmail.com
 
 <div align="center">
