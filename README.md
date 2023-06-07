@@ -1,13 +1,12 @@
-## Olá! Eu sou o Bruno Silveira
+## Olá! Eu sou Bruno Silveira
 
 - 👨‍🎓 Formado como Técnico em Eletrônica - IFSUL
 - 👨‍💻 Cursando Ciência da Computação 4/8 - UFPEL
 - 📝 Estudando Desenvolvimento Web através de cursos extracurriculares
 - 📫 Contate-me no email: contato.brunosilveira@gmail.com
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/brcsilveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brcsilveira&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcsilveira&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
