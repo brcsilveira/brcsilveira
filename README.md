@@ -1,7 +1,7 @@
 ## Olá! Eu sou Bruno Silveira
 
 - 👨‍🎓 Formado como Técnico em Eletrônica - IFSUL
-- 👨‍💻 Cursando Ciência da Computação 4/8 - UFPEL
+- 👨‍💻 Cursando Ciência da Computação - UFPEL
 - 📝 Estudando Desenvolvimento Web através de cursos extracurriculares
 - 📫 Contate-me no email: contato.brunosilveira@gmail.com
 
